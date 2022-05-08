@@ -1,25 +1,27 @@
-﻿using MediatR;
+﻿using Mediator.DAL;
+using Mediator.Entities;
+using MediatR;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
 namespace Mediator.Med.Queries
 {
-    public class GetAllProductQueryHandler : IRequestHandler<GetAllProductQuery, List<GetProductVM>>
+    public class GetAllProductQueryHandler : IRequestHandler<GetAllProductQuery, List<Product>>
     {
-        public Task<List<GetProductVM>> Handle(GetAllProductQuery request, CancellationToken cancellationToken)
+        private AppDbContext _context;
+
+        public GetAllProductQueryHandler(AppDbContext context)
         {
-            var model = new GetProductVM()
-            {
-                Id = 2,
-                Name = "Book"
-            };
-            var model2 = new GetProductVM()
-            {
-                Id = 3,
-                Name = "Monitor"
-            };
-            return Task.FromResult(new List<GetProductVM> { model,model2});
+            _context = context;
+        }
+        public async Task<List<Product>> Handle(GetAllProductQuery request, CancellationToken cancellationToken)
+        {
+            List<Product> products =await _context.Products.Where(x=>!x.IsDeleted).ToListAsync() ;
+
+            return products;
         }
     }
 }

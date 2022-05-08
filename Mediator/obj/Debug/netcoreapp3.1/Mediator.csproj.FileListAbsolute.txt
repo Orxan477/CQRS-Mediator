@@ -22,3 +22,47 @@ C:\Users\user\source\repos\Mediator\Mediator\bin\Debug\netcoreapp3.1\MediatR.Con
 C:\Users\user\source\repos\Mediator\Mediator\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\user\source\repos\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\user\source\repos\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CopyComplete
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.AssemblyReference.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\staticwebassets\Mediator.StaticWebAssets.Manifest.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.RazorTargetAssemblyInfo.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CopyComplete
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\obj\Debug\netcoreapp3.1\Mediator.genruntimeconfig.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Mediator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
