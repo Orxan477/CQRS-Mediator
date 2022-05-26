@@ -1,6 +1,6 @@
-﻿using Mediator.DAL;
-using Mediator.Med.Commands;
-using Mediator.Med.Queries;
+﻿using Data.DAL;
+using Business.Med.Commands;
+using Business.Med.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;

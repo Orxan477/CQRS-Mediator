@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TjrfyyAgmgN2Gq+XH615M7L6iEAR4165Dxsa29VSB85vJxQrpbcRpZHQ6ARzDeMlP1l1wyfCXnKgvc9HROHTSw==",
+  "dgSpecHash": "oFPri5xIFG54qvu5WInSmEx2JT+WbVcZVZTQI1Qw+wyJoZztGUhz50TxWVyppsAE33ozsD5q9rdUBkRv/frMKA==",
   "success": true,
   "projectFilePath": "D:\\Documents\\HP\\Private\\Code Academy\\Back-End\\C#\\Mediator\\Mediator\\Mediator.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,6 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.0\\microsoft.entityframeworkcore.design.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.0\\microsoft.entityframeworkcore.relational.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.0\\microsoft.entityframeworkcore.sqlserver.3.1.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.0\\microsoft.entityframeworkcore.tools.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.0\\microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.0\\microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",

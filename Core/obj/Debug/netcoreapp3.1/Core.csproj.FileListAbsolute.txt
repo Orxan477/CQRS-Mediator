@@ -1,0 +1,10 @@
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Core\obj\Debug\netcoreapp3.1\Core.pdb
