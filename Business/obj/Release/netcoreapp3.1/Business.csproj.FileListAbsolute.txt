@@ -1,0 +1,15 @@
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\bin\Release\netcoreapp3.1\Business.deps.json
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\bin\Release\netcoreapp3.1\Business.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\bin\Release\netcoreapp3.1\Business.pdb
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\bin\Release\netcoreapp3.1\Core.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\bin\Release\netcoreapp3.1\Data.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\bin\Release\netcoreapp3.1\Data.pdb
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\bin\Release\netcoreapp3.1\Core.pdb
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\obj\Release\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\obj\Release\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\obj\Release\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\obj\Release\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\obj\Release\netcoreapp3.1\Business.dll
+D:\Documents\HP\Private\Code Academy\Back-End\C#\Mediator\Business\obj\Release\netcoreapp3.1\Business.pdb
