@@ -1,18 +1,18 @@
-version: '3.9'
+version: '3.8'
 services:
   web:
     build: .
     ports:
-      - 44341:44341
+      - 44341:80
     environment:
-      - ASPNETCORE_URLS=http://*:44341
+      - ASPNETCORE_URLS=http://*:80
     depends_on:
       - db
   db:
     image: "mcr.microsoft.com/mssql/server:2017-latest"
     ports:
-      - "1489:1433"
+      - "1433:1433"
     restart: always
     environment:
-      SA_PASSWORD: "Your_password123"
+      SA_PASSWORD: "Pass@ord"
       ACCEPT_EULA: "Y"
