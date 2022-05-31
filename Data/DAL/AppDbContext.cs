@@ -9,5 +9,6 @@ namespace Data.DAL
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Test> Tests{ get; set; }
+        public DbSet<Human> Humans{ get; set; }
     }
 }
