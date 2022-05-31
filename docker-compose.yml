@@ -9,7 +9,7 @@ services:
     depends_on:
       - db
 
-  # db-mssql:
+  # db:
   #   image: "mcr.microsoft.com/mssql/server:2017-latest"
   #   ports:
   #     - "1433:1433"
@@ -23,13 +23,13 @@ services:
     container_name: db
     environment:
       MYSQL_RANDOM_ROOT_PASSWORD: 1
-      MYSQL_DATABASE: testDB1
-      MYSQL_USER: root
+      MYSQL_DATABASE: testDB
+      MYSQL_USER: dbuser
       MYSQL_PASSWORD: db123
     ports:
       - "3306:3306"
-    # volumes:
-    #   - dbdata:/var/lib/mysql
+    volumes:
+      - dbdata:/var/lib/mysql
 
 
   phpmyadmin:
@@ -43,5 +43,5 @@ services:
     ports:
       - 8080:80
 
-# volumes:
-#   dbdata:
+volumes:
+  dbdata:
