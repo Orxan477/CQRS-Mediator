@@ -38,6 +38,20 @@ namespace Data.Migrations
 
                     b.ToTable("Products");
                 });
+
+            modelBuilder.Entity("Core.Entities.Test", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<int>("Amount")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tests");
+                });
 #pragma warning restore 612, 618
         }
     }

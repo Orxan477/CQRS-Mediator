@@ -27,10 +27,10 @@ namespace Mediator
             services.AddControllers();
             services.AddMediatR(typeof(GetAllProductQuery));
             #region MSSQL
-            //services.AddDbContext<AppDbContext>(options =>
-            //{
+            // services.AddDbContext<AppDbContext>(options =>
+            // {
             //    options.UseSqlServer(Configuration["ConnectionStrings:Default"]);
-            //});
+            // });
             #endregion
 
             #region MySql

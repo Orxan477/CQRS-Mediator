@@ -8,5 +8,6 @@ namespace Data.DAL
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<Test> Tests{ get; set; }
     }
 }
