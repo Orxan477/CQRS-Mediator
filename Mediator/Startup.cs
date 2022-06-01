@@ -34,13 +34,10 @@ namespace Mediator
             #endregion
 
             #region MySql
-            string connetionString = null;
-            MySqlConnection cnn;
-            connetionString = Configuration["ConnectionStrings:Default"];
-            cnn = new MySqlConnection(connetionString);
+            MySqlConnection connectionString = new MySqlConnection(Configuration["ConnectionStrings:Default"]);
             services.AddDbContext<AppDbContext>(options =>
             {
-                options.UseMySQL(cnn);
+                options.UseMySQL(connectionString);
             });
             #endregion
         }
